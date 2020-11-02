@@ -1,0 +1,10 @@
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\obj\Debug\netcoreapp2.0\fiae2020.csproj.CoreCompileInputs.cache
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\obj\Debug\netcoreapp2.0\fiae2020.AssemblyInfoInputs.cache
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\obj\Debug\netcoreapp2.0\fiae2020.AssemblyInfo.cs
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\bin\Debug\netcoreapp2.0\fiae2020.deps.json
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\bin\Debug\netcoreapp2.0\fiae2020.runtimeconfig.json
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\bin\Debug\netcoreapp2.0\fiae2020.runtimeconfig.dev.json
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\bin\Debug\netcoreapp2.0\fiae2020.dll
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\bin\Debug\netcoreapp2.0\fiae2020.pdb
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\obj\Debug\netcoreapp2.0\fiae2020.dll
+D:\development\Ausbildung\Unterstufe\de\bbw\fiae2020\obj\Debug\netcoreapp2.0\fiae2020.pdb
